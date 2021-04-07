@@ -4,4 +4,4 @@
 <img src="https://github.com/triyam/tindog/blob/master/tindog.jpg">
 <hr>
 <h5>Feel free to check it out</h5>
-<h6>Thank for visiting</h6>
+<h6>Thanks for visiting</h6>
